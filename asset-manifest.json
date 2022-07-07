@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/overmagic/static/css/main.1a2f1b90.css",
-    "main.js": "/overmagic/static/js/main.ccb8bdca.js",
+    "main.css": "/overmagic/static/css/main.33f151c7.css",
+    "main.js": "/overmagic/static/js/main.e7638853.js",
     "static/media/classic.gif": "/overmagic/static/media/classic.8836458a5a788f1aec2c.gif",
     "static/media/deluxe.gif": "/overmagic/static/media/deluxe.8cb638c9fd9a4118a4a1.gif",
     "static/media/premium.gif": "/overmagic/static/media/premium.075d5c7b9926ec3eac3d.gif",
@@ -10,14 +10,14 @@
     "static/media/cassic.png": "/overmagic/static/media/cassic.3d8914e82dacf3968c42.png",
     "static/media/Dlogo.png": "/overmagic/static/media/Dlogo.4ac19c04108679b4aa60.png",
     "static/media/gitbook.png": "/overmagic/static/media/gitbook.5902c50dfe00ec818330.png",
-    "static/media/discord.svg": "/overmagic/static/media/discord.676092c0566392a62084ddab8ff36110.svg",
+    "static/media/discord.svg": "/overmagic/static/media/discord.a5e2c7d92b9ad43013b92ad4ce537f5c.svg",
     "static/media/twitter.svg": "/overmagic/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
     "index.html": "/overmagic/index.html",
-    "main.1a2f1b90.css.map": "/overmagic/static/css/main.1a2f1b90.css.map",
-    "main.ccb8bdca.js.map": "/overmagic/static/js/main.ccb8bdca.js.map"
+    "main.33f151c7.css.map": "/overmagic/static/css/main.33f151c7.css.map",
+    "main.e7638853.js.map": "/overmagic/static/js/main.e7638853.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a2f1b90.css",
-    "static/js/main.ccb8bdca.js"
+    "static/css/main.33f151c7.css",
+    "static/js/main.e7638853.js"
   ]
 }
