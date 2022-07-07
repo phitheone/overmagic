@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/overmagicdao/static/css/main.97065775.css",
-    "main.js": "/overmagicdao/static/js/main.1d024707.js",
-    "static/media/classic.gif": "/overmagicdao/static/media/classic.8836458a5a788f1aec2c.gif",
-    "static/media/deluxe.gif": "/overmagicdao/static/media/deluxe.8cb638c9fd9a4118a4a1.gif",
-    "static/media/premium.gif": "/overmagicdao/static/media/premium.075d5c7b9926ec3eac3d.gif",
-    "static/media/deluxe.png": "/overmagicdao/static/media/deluxe.a6cca688b7e479a7183d.png",
-    "static/media/premium.png": "/overmagicdao/static/media/premium.b2e208009c6240338dea.png",
-    "static/media/cassic.png": "/overmagicdao/static/media/cassic.3d8914e82dacf3968c42.png",
-    "static/media/Dlogo.png": "/overmagicdao/static/media/Dlogo.4ac19c04108679b4aa60.png",
-    "static/media/gitbook.png": "/overmagicdao/static/media/gitbook.5902c50dfe00ec818330.png",
-    "static/media/discord.svg": "/overmagicdao/static/media/discord.676092c0566392a62084ddab8ff36110.svg",
-    "static/media/twitter.svg": "/overmagicdao/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
-    "index.html": "/overmagicdao/index.html",
-    "main.97065775.css.map": "/overmagicdao/static/css/main.97065775.css.map",
-    "main.1d024707.js.map": "/overmagicdao/static/js/main.1d024707.js.map"
+    "main.css": "/overmagic/static/css/main.1a2f1b90.css",
+    "main.js": "/overmagic/static/js/main.ccb8bdca.js",
+    "static/media/classic.gif": "/overmagic/static/media/classic.8836458a5a788f1aec2c.gif",
+    "static/media/deluxe.gif": "/overmagic/static/media/deluxe.8cb638c9fd9a4118a4a1.gif",
+    "static/media/premium.gif": "/overmagic/static/media/premium.075d5c7b9926ec3eac3d.gif",
+    "static/media/deluxe.png": "/overmagic/static/media/deluxe.a6cca688b7e479a7183d.png",
+    "static/media/premium.png": "/overmagic/static/media/premium.b2e208009c6240338dea.png",
+    "static/media/cassic.png": "/overmagic/static/media/cassic.3d8914e82dacf3968c42.png",
+    "static/media/Dlogo.png": "/overmagic/static/media/Dlogo.4ac19c04108679b4aa60.png",
+    "static/media/gitbook.png": "/overmagic/static/media/gitbook.5902c50dfe00ec818330.png",
+    "static/media/discord.svg": "/overmagic/static/media/discord.676092c0566392a62084ddab8ff36110.svg",
+    "static/media/twitter.svg": "/overmagic/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
+    "index.html": "/overmagic/index.html",
+    "main.1a2f1b90.css.map": "/overmagic/static/css/main.1a2f1b90.css.map",
+    "main.ccb8bdca.js.map": "/overmagic/static/js/main.ccb8bdca.js.map"
   },
   "entrypoints": [
-    "static/css/main.97065775.css",
-    "static/js/main.1d024707.js"
+    "static/css/main.1a2f1b90.css",
+    "static/js/main.ccb8bdca.js"
   ]
 }
